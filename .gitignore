@@ -1,0 +1,9 @@
+/auto/
+*.aux
+*.blg
+*.fdb_latexmk
+*.fls
+/oii-orion.log
+*.out
+/oii-orion.pdf
+*.synctex.gz
