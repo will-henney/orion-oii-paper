@@ -17,5 +17,15 @@
   {mn@eprint@\@tempb}{\@tempb:\@tempc}{\expandafter \expandafter \csname
   mn@eprint@\@tempb\endcsname \expandafter{\@tempc}}}
 
+\bibitem[\protect\citeauthoryear{{Fang} \& {Liu}}{{Fang} \&
+  {Liu}}{2013}]{Fang:2013a}
+{Fang} X.,  {Liu} X.-W.,  2013, \mn@doi [\mnras] {10.1093/mnras/sts414}, \href
+  {http://adsabs.harvard.edu/abs/2013MNRAS.429.2791F} {429, 2791}
+
+\bibitem[\protect\citeauthoryear{{Garnett} \& {Dinerstein}}{{Garnett} \&
+  {Dinerstein}}{2001}]{Garnett:2001a}
+{Garnett} D.~R.,  {Dinerstein} H.~L.,  2001, \mn@doi [\apj] {10.1086/322452},
+  \href {http://adsabs.harvard.edu/abs/2001ApJ...558..145G} {558, 145}
+
 \makeatother
 \end{thebibliography}
